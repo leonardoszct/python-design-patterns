@@ -15,7 +15,7 @@ class Instrument(ABC):
 # ConcreteProduct1
 class Guitar(Instrument):
     def play_sample(self) -> None:
-        print('♪ playing melody G - C - D - G')
+        print('♪ playing chords G - C - D - G')
 
 
 # ConcreteProduct2
@@ -48,6 +48,7 @@ class DrumSimulation(Simulation):
         return Drums()
 
 
+# Client
 def demo_instrument(simulation: Simulation) -> None:
     simulation.play_quick_demo()
 
