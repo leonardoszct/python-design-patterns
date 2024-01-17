@@ -17,16 +17,15 @@ The project is organized into folders, each representing a specific design patte
 
 ## Usage
 
-Run the Python scripts (`index.py``) to see the design patterns in action and experiment with them. 
+Run the Python scripts (`index.py`) to see the design patterns in action and experiment with them. 
 
-> python ${FOLDER_NAME}/index.py
+```cmd
+python ${pattern_folder_name}/index.py
+```
 
-For example:
-
-> python factory_method/index.py
 
 ## Design Patterns
 
 ### Creational Patterns
 
-- [factory_method](./factory_method/)
+- [Factory Method](./factory_method/)
