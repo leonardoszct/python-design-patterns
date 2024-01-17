@@ -29,3 +29,4 @@ python ${pattern_folder_name}/index.py
 ### Creational Patterns
 
 - [Factory Method](./factory_method/)
+- [Abstract Factory](./abstract_factory/)
