@@ -27,4 +27,6 @@ For example:
 
 ## Design Patterns
 
-*[TBD]*
+### Creational Patterns
+
+- [factory_method](./factory_method/)
