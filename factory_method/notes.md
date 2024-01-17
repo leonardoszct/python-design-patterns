@@ -1,4 +1,9 @@
-### Factory Method
+# Factory Method
+
+> [!IMPORTANT]
+> This is my personal notes of [Refactoring Guru's article on Factory Method](https://refactoring.guru/design-patterns/factory-method). Visit their site for a complete version 🤓
+
+### Notes
 
 - **Intent**: an interface to create objects in a superclass, but allows subclasses to customize the object being created so it matches a certain context.
   
@@ -20,3 +25,5 @@ To add a new class `Drums` into the app means making a lot of big changes to the
     - When you don’t know exactly which types and dependencies the objects of your code and want to keep it flexible
     - When you want to add the ability to extend the default behaviour of a resource, as a library or framework
     - When you want to reuse existing objects instead of recreating them
+ 
+
