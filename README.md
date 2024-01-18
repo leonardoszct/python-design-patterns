@@ -30,3 +30,4 @@ python ${pattern_folder_name}/index.py
 
 - [Factory Method](./factory_method/)
 - [Abstract Factory](./abstract_factory/)
+- [Builder](./builder/)
