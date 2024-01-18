@@ -34,3 +34,16 @@
   - When you want the ability to create different representations of a product
   - When constructing complex objects (e.g. [composite trees](https://refactoring.guru/design-patterns/composite))
  
+
+
+### Output
+
+The `builder/index.py` execution output is:
+
+```cmd
+Generating simple acoustic guitar:
+➤ Guitar parts: maple body, D-shaped neck, flat headstock
+
+Generating acoustic guitar with accessories:
+➤ Guitar parts: maple body, D-shaped neck, flat headstock, capo, strap, tuner
+```

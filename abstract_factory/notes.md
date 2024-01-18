@@ -37,4 +37,21 @@ Also, it should be easy to add new instruments, groups and variants.
   - Applications in which objects are related and should be categorized into groups, and the groups have different variations. Then, you want to keep it flexible and easy to add new objects and variants.
   - When a class has a lot of factory methods and that its making it hard to see its promary responsability
 
-  
+
+### Output
+
+The `abstract_factory/index.py` execution output is:
+
+```cmd
+Lets simulate some acoustic instruments: 
+♬ Acoustic harmonies
+♪ playing chords C - Am - F - G on piano
+♪ playing chords G - D - Em - C on guitar
+
+Lets simulate some eletric instruments: 
+✶ turning guitar on
+✶ turning piano on
+♬ Acoustic harmonies
+♪ playing chords C - Am - F - G on piano
+♪ playing chords G - D - Em - C on guitar
+```

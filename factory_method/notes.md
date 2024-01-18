@@ -27,3 +27,13 @@ To add a new class `Drums` into the app means making a lot of big changes to the
     - When you want to reuse existing objects instead of recreating them
  
 
+### Output
+
+The `factory_method/index.py` execution output is:
+
+```cmd
+Lets simulate some instruments: 
+♪ playing chords G - C - D - G
+♫ playing Ba Dum Tss
+
+```
