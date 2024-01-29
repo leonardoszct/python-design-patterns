@@ -1,4 +1,4 @@
-# Factory Method
+# Abstract Factory
 
 > [!IMPORTANT]
 > This is my personal notes of [Refactoring Guru's article on Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory). Visit their site for a complete version 🤓
