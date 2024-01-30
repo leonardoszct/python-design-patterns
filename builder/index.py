@@ -1,10 +1,12 @@
 from abc import ABC, abstractmethod
 from typing import Any
 
-# The app sells guitar and allows the user
-# to customize them by choosing different combinations
-# of features, like body material and accessories.
-# Different guitars should be easy to create.
+"""
+The app sells guitar and allows the user
+to customize them by choosing different combinations
+of features, like body material and accessories.
+Different guitars should be easy to create.
+"""
 
 
 # Product

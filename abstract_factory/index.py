@@ -1,9 +1,11 @@
 from abc import ABC, abstractmethod
 
-# The app separates the instruments into groups,
-# and groups of instruments have variants.
-# New instruments will be added from time to time,
-# so the code should be flexible and easy to add new ones.
+"""
+The app separates the instruments into groups,
+and groups of instruments have variants.
+New instruments will be added from time to time,
+so the code should be flexible and easy to add new ones.
+"""
 
 
 # Abstract Product A

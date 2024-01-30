@@ -1,8 +1,10 @@
 from abc import ABC, abstractmethod
 
-# Considerer an app that simulates musical instruments.
-# New instruments will be added from time to time,
-# so the code should be flexible and easy to add new ones.
+"""
+Considerer an app that simulates musical instruments.
+New instruments will be added from time to time,
+so the code should be flexible and easy to add new ones.
+"""
 
 
 # Product
