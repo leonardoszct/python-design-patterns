@@ -32,3 +32,4 @@ python ${pattern_folder_name}/index.py
 - [Abstract Factory](./abstract_factory/)
 - [Builder](./builder/)
 - [Prototype](./prototype/)
+- [Singleton](./singleton/)
