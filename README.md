@@ -39,3 +39,7 @@ python creational/factory_method/index.py
 - [Builder](./creational/builder/)
 - [Prototype](./creational/prototype/)
 - [Singleton](./creational/singleton/)
+
+### Structural Patterns
+
+- [Adapter](./structural/adapter/)
