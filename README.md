@@ -20,16 +20,22 @@ The project is organized into folders, each representing a specific design patte
 Run the Python scripts (`index.py`) to see the design patterns in action and experiment with them. 
 
 ```cmd
-python ${pattern_folder_name}/index.py
+python ${pattern_type}/${pattern_folder_name}/index.py
 ```
 
+For example, to run the `Factory Method` script, try:
+
+```cmd
+python creational/factory_method/index.py
+
+```
 
 ## Design Patterns
 
 ### Creational Patterns
 
-- [Factory Method](./factory_method/)
-- [Abstract Factory](./abstract_factory/)
-- [Builder](./builder/)
-- [Prototype](./prototype/)
-- [Singleton](./singleton/)
+- [Factory Method](./creational/factory_method/)
+- [Abstract Factory](./creational/abstract_factory/)
+- [Builder](./creational/builder/)
+- [Prototype](./creational/prototype/)
+- [Singleton](./creational/singleton/)
