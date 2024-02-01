@@ -43,3 +43,4 @@ python creational/factory_method/index.py
 ### Structural Patterns
 
 - [Adapter](./structural/adapter/)
+- [Bridge](./structural/bridge/)
