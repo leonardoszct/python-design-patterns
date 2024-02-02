@@ -44,3 +44,4 @@ python creational/factory_method/index.py
 
 - [Adapter](./structural/adapter/)
 - [Bridge](./structural/bridge/)
+- [Composite](./structural/composite/)
