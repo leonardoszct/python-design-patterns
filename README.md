@@ -47,3 +47,4 @@ python creational/factory_method/index.py
 - [Composite](./structural/composite/)
 - [Decorator](./structural/decorator/)
 - [Facade](./structural/facade/)
+- [Flyweight](./structural/flyweight/)
