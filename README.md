@@ -46,3 +46,4 @@ python creational/factory_method/index.py
 - [Bridge](./structural/bridge/)
 - [Composite](./structural/composite/)
 - [Decorator](./structural/decorator/)
+- [Facade](./structural/facade/)
