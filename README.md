@@ -32,11 +32,14 @@ python creational/factory_method/index.py
 
 ## Design Patterns
 
+### Behavioral Patterns
+- [Chain of Responsability]('./behavioral/chain_of_responsability')
+
 ### Creational Patterns
 
-- [Factory Method](./creational/factory_method/)
 - [Abstract Factory](./creational/abstract_factory/)
 - [Builder](./creational/builder/)
+- [Factory Method](./creational/factory_method/)
 - [Prototype](./creational/prototype/)
 - [Singleton](./creational/singleton/)
 
