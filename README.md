@@ -36,6 +36,7 @@ python creational/factory_method/index.py
 - [Chain of Responsability]('./behavioral/chain_of_responsability')
 - [Command]('./behavioral/command')
 - [Iterator]('./behavioral/iterator')
+- [Mediator]('./behavioral/mediator')
 
 ### Creational Patterns
 
