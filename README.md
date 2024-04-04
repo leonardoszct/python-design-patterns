@@ -37,6 +37,7 @@ python creational/factory_method/index.py
 - [Command]('./behavioral/command')
 - [Iterator]('./behavioral/iterator')
 - [Mediator]('./behavioral/mediator')
+- [Memento]('./behavioral/memento')
 
 ### Creational Patterns
 
