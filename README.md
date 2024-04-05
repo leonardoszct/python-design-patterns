@@ -38,6 +38,7 @@ python creational/factory_method/index.py
 - [Iterator]('./behavioral/iterator')
 - [Mediator]('./behavioral/mediator')
 - [Memento]('./behavioral/memento')
+- [Observer]('./behavioral/observer')
 
 ### Creational Patterns
 
