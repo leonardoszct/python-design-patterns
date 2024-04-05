@@ -30,7 +30,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `chain_of_responsability/index.py` execution output is:
 
 ```cmd
 Requesting to play sample sample1

@@ -23,7 +23,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `facade/index.py` execution output is:
 
 ```cmd
 Playing sample guitar without echo:

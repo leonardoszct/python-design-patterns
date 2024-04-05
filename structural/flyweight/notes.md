@@ -32,7 +32,7 @@ The solution is to stop storing the extrinsic state inside the actual object and
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `flyweight/index.py` execution output is:
 
 ```cmd
 5 Keys in factory:

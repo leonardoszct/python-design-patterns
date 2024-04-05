@@ -33,7 +33,7 @@
 
 ### Output
 
-The `abstract_factory/index.py` execution output is:
+The `adapter/index.py` execution output is:
 
 ```cmd
 Playing all instruments by using method instrument.play_sample()

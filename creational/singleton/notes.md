@@ -37,7 +37,7 @@
 
 ### Output
 
-The `abstract_factory/index.py` execution output is:
+The `singleton/index.py` execution output is:
 
 ```cmd
 Created SoundPlayer instance for HOME page

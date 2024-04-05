@@ -28,7 +28,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `iterator/index.py` execution output is:
 
 ```cmd
 Straight traversal:

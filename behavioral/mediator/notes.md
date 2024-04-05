@@ -24,7 +24,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `mediator/index.py` execution output is:
 
 ```cmd
 Client: trigger select_track

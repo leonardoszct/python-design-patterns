@@ -31,7 +31,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `command/index.py` execution output is:
 
 ```cmd
 AudioBoard: start recording audio

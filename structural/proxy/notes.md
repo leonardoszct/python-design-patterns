@@ -28,7 +28,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `proxy/index.py` execution output is:
 
 ```cmd
 Client: requesting sample play

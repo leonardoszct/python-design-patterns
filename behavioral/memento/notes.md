@@ -24,7 +24,7 @@
 
 ### Output
 
-The `decorator/index.py` execution output is:
+The `memento/index.py` execution output is:
 
 ```cmd
 Creating lyrics...
