@@ -40,6 +40,7 @@ python creational/factory_method/index.py
 - [Memento]('./behavioral/memento')
 - [Observer]('./behavioral/observer')
 - [State]('./behavioral/state')
+- [Strategy]('./behavioral/strategy')
 
 ### Creational Patterns
 
