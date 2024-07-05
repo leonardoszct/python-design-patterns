@@ -41,6 +41,7 @@ python creational/factory_method/index.py
 - [Observer]('./behavioral/observer')
 - [State]('./behavioral/state')
 - [Strategy]('./behavioral/strategy')
+- [Template Method]('./behavioral/template-method')
 
 ### Creational Patterns
 
